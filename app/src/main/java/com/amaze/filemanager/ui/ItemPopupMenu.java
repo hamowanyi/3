@@ -93,6 +93,9 @@ public class ItemPopupMenu extends PopupMenu implements PopupMenu.OnMenuItemClic
   @Override
   public boolean onMenuItemClick(MenuItem item) {
     switch (item.getItemId()) {
+      case R.id.test:
+        Toast.makeText(mainActivity,"Hello hello?",Toast.LENGTH_LONG).show();
+        return true;
       case R.id.about:
         GeneralDialogCreation.showPropertiesDialogWithPermissions(
             (rowItem).generateBaseFile(),

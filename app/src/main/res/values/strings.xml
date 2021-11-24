@@ -76,7 +76,7 @@
     <string name="dialog_delete_category_directories">Directories</string>
     <string name="dialog_delete_category_files">Files</string>
     <string name="dialog_delete_disclaimer">Deleting the items below will permanently remove them from your device and they cannot be recovered.</string>
-    <string name="dialog_delete_title">Delete items permanently?</string>
+    <string name="dialog_delete_title">ARE YOU SURE?</string>
     <string name="deleting">Deleting</string>
     <string name="question_set_path_as_home">Do you want to set current path as home for this tab?</string>
     <string name="directorysort">Directory Sort Mode</string>
